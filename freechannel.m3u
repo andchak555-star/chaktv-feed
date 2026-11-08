@@ -1,31 +1,31 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/andchak555-star/chaktv-feed/main/epg.xml.gz"
 #EXTINF:-1 tvg-chno="1" tvg-id="pervy" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/105/logo_256.webp" group-title="FreeChannel",Первый HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=VOnVp5TVEnyYUlkh1KzXFQ&e=2094102163&scheme=https
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=Wnuk6vYAVa3IB57UZcDlKg&e=2094145663&scheme=https
 #EXTINF:-1 tvg-chno="2" tvg-id="rossia1" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_256.webp" group-title="FreeChannel",Россия HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
 https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="ntv" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10100/logo_256.webp" group-title="FreeChannel",НТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://edge01p.mediavitrina.ru/hls-livef6/ntv_msk/index.m3u8?token=v2.JysLgcUgaUFXsR0GA5saSn_mBJ0yLB_rNXRKurdbRWw.d-I_p67yGUTWGglGeYRmABLzZ-qtOEmeXFVsHhw5qmU.1794706964.41578620db895f320bb6790af88f44c8
+https://edge07d.mediavitrina.ru/hls-livef5/ntv_msk/index.m3u8?token=v2.7pGHaN37UcwP4EPR_3FYOnfjQNCV3ap2GXm7L1g-C8A.PR3b47EjnWeghtvxvEJfSxO-S3gjzPtkRd0l6GKwnW4.1794750464.39d8714a47262ba7c4e6c892efd129eb
 #EXTINF:-1 tvg-chno="4" tvg-id="rentv" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/113/logo_256.webp" group-title="FreeChannel",РЕН ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://vitrina-live-cdnnow.mediavitrina.ru/hls-livef5/ren-tv/index.m3u8?token=v2.I4Id1nH3yDBHXofDf0FNwRPLJm88a_pr-X31vaHDz2E.Guk6oVNvwGVzzn6kR4_w6oG3GwH7MjGJSVvZELz5Xvg.1794706964.578611a60f280ae54efb12c510923d99
+https://vitrina-live-cdnvideo.mediavitrina.ru/hls-livef5/ren-tv/index.m3u8?token=v2.pXJApUPogEYAH2vUQsZz0WoA84o6z-dbNUEA-yyz5Rw.uGxyZULkfQ0Mm-pFx1_e8_SWlkeUdZRJQPQMl49ByLI.1794750464.b5c7bce43d31b5dc7834642c780512f3
 #EXTINF:-1 tvg-chno="5" tvg-id="sts" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/126/logo_256.webp" group-title="FreeChannel",СТС HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://edge06r.mediavitrina.ru/hls-livef5/ctc/index.m3u8?token=v2.hTmx8m8BgVp3H4cH2YlLcW7BIESIlBPVfKCbuFkjHBI.hzwsCA4RFFdepZM2Y0baO1njQl_rE_i4IRCg8-fAbJQ.1794706965.419febfcd0342d49a290a8b5cea0b2cb
+https://edge06r.mediavitrina.ru/hls-livef6/ctc/index.m3u8?token=v2.OiZyVMG2AkP-MOALToA1e3F-x8IsjRszDbtseRKeKjI.Ab0oLUNQn_3CkJkv6M-HdFkmtVCYUMuq0wovBcAMRLw.1794750464.e26d33ca48cc6782c0929a5faab9aae1
 #EXTINF:-1 tvg-chno="6" tvg-id="tnt" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/136/logo_256.webp" group-title="FreeChannel",ТНТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=2lXarEGRg3NaTOhgHm0yQw&e=2094102165&scheme=https
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=gGr5vELhmoA0K2WWKUh3qw&e=2094145665&scheme=https
 #EXTINF:-1 tvg-chno="7" tvg-id="rossia-24" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/148/logo_256.webp" group-title="FreeChannel",Россия 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
 https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="tv3-ru" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/130/logo_256.webp" group-title="FreeChannel",ТВ-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=-BypEMnHQ2ZQF6d-2os2xg&e=2094102167&scheme=https
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=I6NM8fphH3DcWWpGnEiSbQ&e=2094145666&scheme=https
 #EXTINF:-1 tvg-chno="9" tvg-id="tnt4" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/168/logo_256.webp" group-title="FreeChannel",ТНТ4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=acSpq3bEKVYMFZxJKKzMjg&e=2094102168&scheme=https
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=rZtewzobAdzkHX0CqiCQrA&e=2094145666&scheme=https
 #EXTINF:-1 tvg-chno="10" tvg-id="solovjinypomiot" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/13735/logo_256_1709794858.png" group-title="FreeChannel",Соловьев Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
 https://stream.smotrim.ru/hls/solovievlive/playlist_5.m3u8
@@ -52,25 +52,25 @@ https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 https://balancer.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="muztv" tvg-logo="https://iptvx.one/picons/muztv.png" group-title="FreeChannel+",МУЗ-ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=rnhNXr2NJf6jL0fODecB0Q&e=2094102171&scheme=https
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=5fYmAZM0dd571bvQKB80gA&e=2094145670&scheme=https
 #EXTINF:-1 tvg-chno="19" tvg-id="ru-tv" tvg-logo="https://iptvx.one/picons/ru-tv.png" group-title="FreeChannel+",RU.TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=Awj4cDqi0zcb9sJWZbuLiA&e=2094102172&scheme=https
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=Pocx33gsst91nXRC2ciXZw&e=2094145672&scheme=https
 #EXTINF:-1 tvg-chno="20" tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png" group-title="FreeChannel+",FON MUSIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=cZ9gpJOyqeGvvB28hWgDOA&e=2094102172&scheme=https
+https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=l6rYfW0VWdAAmIQGlq9dHA&e=2094145673&scheme=https
 #EXTINF:-1 tvg-chno="21" tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="FreeChannel+",МАТЧ ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=Js9INeqBPPojEPWhiRuFDw&e=2094102173&scheme=https
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=KRR4lFBHTe3Nijfg2h-gng&e=2094145673&scheme=https
 #EXTINF:-1 tvg-chno="22" tvg-id="rbc" tvg-logo="" group-title="FreeChannel+",РБК HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/88f6485ee28d56daf13302ac6fe3d931/index.m3u8?s=5ZidLmXgqgzRqFyVQD13ag&e=2094102174&scheme=https
+https://bl.rutube.ru/livestream/88f6485ee28d56daf13302ac6fe3d931/index.m3u8?s=A4KJlrCfoZWxFyuY4qRxYA&e=2094145673&scheme=https
 #EXTINF:-1 tvg-chno="23" tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="FreeChannel+",Известия HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/3c47861a8b4b51639e41be092053b966/index.m3u8?s=rukZLf4Mu2PAJPLp3PGARQ&e=2094102174&scheme=https
+https://bl.rutube.ru/livestream/3c47861a8b4b51639e41be092053b966/index.m3u8?s=2Kf8sDUAPkDY7N-VQYAejg&e=2094145674&scheme=https
 #EXTINF:-1 tvg-chno="24" tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="FreeChannel+",МИР 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=eIj2X_9p6PNkGjIk_cKUqQ&e=2094102175&scheme=https
+https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=aq1afG_nzFHYYzId491WAg&e=2094145674&scheme=https
 #EXTINF:-1 tvg-chno="25" tvg-id="tv-brics" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="FreeChannel+",ТВ БРИКС HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/a1c6118e24a6bf79003e6da3ed4f1eea/index.m3u8?s=A3s1JHuXzS1TT0AJHdtQ1A&e=2094102175&scheme=https
+https://bl.rutube.ru/livestream/a1c6118e24a6bf79003e6da3ed4f1eea/index.m3u8?s=DNKw94GcKu374j10zubVfA&e=2094145675&scheme=https
