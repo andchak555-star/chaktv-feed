@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/andchak555-star/chaktv-feed/main/epg.xml.gz"
 #EXTINF:-1 tvg-chno="1" tvg-id="pervy" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/105/logo_256.webp" group-title="FreeChannel",Первый HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=TiTHttMQJj67mGiQPVi_hA&e=2095197454&scheme=https
+https://river-ntv-rtk-d407.rtbcdn.ru/stream/genetta-311.m9.rutube.ru/hNMyLAB6f7arWXEeqECzYg/1795802732/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="rossia1" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/115/logo_256.webp" group-title="FreeChannel",Россия HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
 https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
@@ -13,19 +13,19 @@ https://cdn-dvr.ntv.ru/ntv0_hd/tracks-v1a1/mono.ts.m3u8
 http://31.210.208.171:8080/ren/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-chno="5" tvg-id="sts" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/126/logo_256.webp" group-title="FreeChannel",СТС HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/895f3379ab9fee679eb088215263b8d7/index.m3u8?s=B--Jb7u63wKWK5rz6rb_MA&e=2095197455&scheme=https
+https://bl.rutube.ru/livestream/895f3379ab9fee679eb088215263b8d7/index.m3u8?s=M32e7XObhR9__4abwIJJIQ&e=2095197933&scheme=https
 #EXTINF:-1 tvg-chno="6" tvg-id="tnt" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/136/logo_256.webp" group-title="FreeChannel",ТНТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=9jDO18p1PjUVKJvAj1dFtg&e=2095197456&scheme=https
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=1fe_p0rdN9lYiaMiWWY4_g&e=2095197934&scheme=https
 #EXTINF:-1 tvg-chno="7" tvg-id="rossia-24" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/148/logo_256.webp" group-title="FreeChannel",Россия 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
 https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="tv3-ru" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/130/logo_256.webp" group-title="FreeChannel",ТВ-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=7Q-e2G6XmWyjxR4oGKSsgA&e=2095197457&scheme=https
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=xvJw_kQS4yixHKOHmJ0K5w&e=2095197935&scheme=https
 #EXTINF:-1 tvg-chno="9" tvg-id="tnt4" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/168/logo_256.webp" group-title="FreeChannel",ТНТ4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=vdpJjDAvHiMUR9fwewyWWw&e=2095197457&scheme=https
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=BoTTc2by_BJ5f8WgRM0kXg&e=2095197936&scheme=https
 #EXTINF:-1 tvg-chno="10" tvg-id="solovjinypomiot" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/13735/logo_256_1709794858.png" group-title="FreeChannel",Соловьев Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
 https://stream.smotrim.ru/hls/solovievlive/playlist_5.m3u8
@@ -52,25 +52,25 @@ https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 https://balancer.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="muztv" tvg-logo="https://iptvx.one/picons/muztv.png" group-title="FreeChannel+",МУЗ-ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=sadaIWvgwrfGFphtOgl5wg&e=2095197461&scheme=https
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=gd5Irl05mfwILGHNHiuZVA&e=2095197942&scheme=https
 #EXTINF:-1 tvg-chno="19" tvg-id="ru-tv" tvg-logo="https://iptvx.one/picons/ru-tv.png" group-title="FreeChannel+",RU.TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=uW7R3PFBjnkHj1WoEXcLtw&e=2095197461&scheme=https
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=tZFBWMBMPBFkbBxkJevvjQ&e=2095197942&scheme=https
 #EXTINF:-1 tvg-chno="20" tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png" group-title="FreeChannel+",FON MUSIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=MFDtDOKQ1IygY_7WHXRElA&e=2095197462&scheme=https
+https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=bPRO7kHiuBeQxiUONPddiQ&e=2095197943&scheme=https
 #EXTINF:-1 tvg-chno="21" tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="FreeChannel+",МАТЧ ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=W8dfOfHukyHCWW8nFenFbg&e=2095197463&scheme=https
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=QGQuFoc-otb3922NYvIekA&e=2095197943&scheme=https
 #EXTINF:-1 tvg-chno="22" tvg-id="rbc" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="FreeChannel+",РБК HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/88f6485ee28d56daf13302ac6fe3d931/index.m3u8?s=YSigoR6v8khcjf6J7-lRyQ&e=2095197463&scheme=https
+https://bl.rutube.ru/livestream/88f6485ee28d56daf13302ac6fe3d931/index.m3u8?s=b6q55un5R733xtba4z7lKw&e=2095197944&scheme=https
 #EXTINF:-1 tvg-chno="23" tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="FreeChannel+",Известия HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/3c47861a8b4b51639e41be092053b966/index.m3u8?s=3u6_1x7cRs0K6A0acoWcUQ&e=2095197464&scheme=https
+https://bl.rutube.ru/livestream/3c47861a8b4b51639e41be092053b966/index.m3u8?s=6tuZiW8VZ7rR9aLsx3k0mg&e=2095197944&scheme=https
 #EXTINF:-1 tvg-chno="24" tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="FreeChannel+",МИР 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=MagrfvY4yosH2S-recVXng&e=2095197465&scheme=https
+https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=4a-wSA9u9PwOY_0XaupSkA&e=2095197945&scheme=https
 #EXTINF:-1 tvg-chno="25" tvg-id="tv-brics" tvg-logo="https://iptvx.one/picons/tv-brics.png" group-title="FreeChannel+",ТВ БРИКС HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36
-https://bl.rutube.ru/livestream/a1c6118e24a6bf79003e6da3ed4f1eea/index.m3u8?s=6PQCI9IhziXPahX6eC4F3Q&e=2095197467&scheme=https
+https://bl.rutube.ru/livestream/a1c6118e24a6bf79003e6da3ed4f1eea/index.m3u8?s=S4EEEJY7mWTorCkVBnc-Lw&e=2095197945&scheme=https
